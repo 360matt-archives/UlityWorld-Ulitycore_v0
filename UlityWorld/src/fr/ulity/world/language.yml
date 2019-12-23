@@ -1,0 +1,13 @@
+UlityWorld:
+  CannotEditBlocks:
+    fr: "&7[&cX&7] Laisses les blocs comme ils sont &c:/"
+  AntiGriefCommand:
+    fr: "&7Le mode édition du monde est %stat%"
+  OnActivateTNT_disabledWorld:
+    fr: "&7[&cX&7] Tout le monde sait que les TNT sont cool, &cPas vous ?"
+  PvPDisabled:
+    fr: "&7[&cX&7] Dans ce monde ... &cil ne faut pas taper !"
+  MobDamageDisabled:
+    fr: "&7[&cX&7] Oh non, &cvilain ! &7le mob ne t'as rien fait !"
+  Invincible:
+    fr: "&7[&cX&7] Dans ce monde, tout le monde est dieu"

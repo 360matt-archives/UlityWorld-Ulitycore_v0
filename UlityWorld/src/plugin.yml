@@ -1,0 +1,20 @@
+name: UlityWorld
+authors: [360matt, Ulity]
+version: 1.0
+main: fr.ulity.world.Main
+softdepend: [UlityCore]
+api-version: 1.14
+
+commands:
+  AntiGrief:
+    permission:
+     - admin
+     - builder
+     - cmd.antigrief
+    aliases:
+     - ag
+  world:
+    aliases:
+     - monde
+     - mondes
+     - worlds
